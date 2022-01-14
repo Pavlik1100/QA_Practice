@@ -1,4 +1,4 @@
-## SQL_practis [HW_3.sql](https://github.com/Pavlik1100/SQL_practice/blob/main/HW_3/HW_3.sql)
+## SQL_practis [HW_3.sql](https://github.com/Pavlik1100/QA_Practice/blob/SQL/HW_3/HW_3.sql)
 # SQL HomeWork 3. Joins, DDL продолжение
 
 1. Вывести всех работников чьи зарплаты есть в базе, вместе с зарплатами.
@@ -297,4 +297,7 @@ from roles1 r
 where monthly_salary = 1100 or monthly_salary = 1500 or monthly_salary = 2000
 order by monthly_salary;
 ```
-# [Back SQL_practis](https://github.com/Pavlik1100/SQL_practis)
+## 🚏 Navigate:
+[![Flutter](https://img.shields.io/badge/🏠-SQL_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/SQL)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
+## 📫 How to reach me:  
+[![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=LinkedIn)](https://www.linkedin.com/in/pavel-simonov-7a8b1119a/)  [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=Telegram)](https://t.me/NuiSaiman)  [![Flutter](https://img.shields.io/badge/-simonovpavlik@gmail.com-000000?style=social&logo=Gmail)](mailto:simonovpavlik@gmail.com)
