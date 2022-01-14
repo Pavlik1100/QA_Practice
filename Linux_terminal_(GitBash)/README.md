@@ -1,4 +1,4 @@
-# Linux Terminal/GitBash commands [Составные команды Git и запись логов](https://github.com/Pavlik1100/GitBash-Practice_Linux_Terminal_commands/tree/main/added_new_skill)
+# Linux Terminal/GitBash commands:
 
 1) Посмотреть где я `pwd`
 2) Создать папку `mkdir new_folder`
@@ -20,17 +20,6 @@
 18) вывести несколько последних строк из текстового файла `tail -n3 1.txt`
 19) просмотреть содержимое длинного файла (команда less) изучите как она работает `less -s 1.txt` 
 20) вывести дату и время `date` 
-# 
-21) Сохранить поток логов за указанную минуту в отдельный файл
-```sh
-tail -f anything_1.txt | grep --line-buffered 16.08 >> test_log1.txt
-```
-#
-22) Сохранить поток логов за указанную минуту в отдельный файл транслируя ход логов в gitbash
-```sh
-tail -f anything_1.txt | grep --line-buffered 16.13 >> test_log2.txt | tail -f test_log2.txt
-```
-[Директория с логами](https://github.com/Pavlik1100/GitBash-Practice_Linux_Terminal_commands/tree/main/added_new_skill)
 
 ## Задание *
 *1) Отправить http запрос на сервер http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000  
