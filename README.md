@@ -1,1 +1,1 @@
-# QA_Practice
+# HW_2-Practice_GitHub
