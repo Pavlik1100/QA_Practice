@@ -1,0 +1,6 @@
+1. Open web-page
+2. Enter user information
+3. Click button "loggin"
+4. Open setting profile
+5. Change surname
+6. Save chages
