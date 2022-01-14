@@ -1,4 +1,4 @@
-## SQL_practis [HW_1.sql](https://github.com/Pavlik1100/SQL_practis/blob/main/HW_1/HW_1.sql)
+## SQL_practis [HW_1.sql](https://github.com/Pavlik1100/QA_Practice/blob/SQL/HW_1/HW_1.sql)
 # HW_1-SELECT_WHERE_FROM_AND_OR_MIN_MAX_COUNT_ORDER
 1. Вывести все поля и все строки.
 ```sql
@@ -128,4 +128,7 @@ select id, name, created_on from students order by created_on asc;
 ```sql
 select id, name, created_on from students order by created_on desc;
 ```
-# [Back SQL_practis](https://github.com/Pavlik1100/SQL_practis)
+## 🚏 Navigate:
+[![Flutter](https://img.shields.io/badge/🏠-SQL_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/SQL)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
+## 📫 How to reach me:  
+[![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=LinkedIn)](https://www.linkedin.com/in/pavel-simonov-7a8b1119a/)  [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=Telegram)](https://t.me/NuiSaiman)  [![Flutter](https://img.shields.io/badge/-simonovpavlik@gmail.com-000000?style=social&logo=Gmail)](mailto:simonovpavlik@gmail.com)
