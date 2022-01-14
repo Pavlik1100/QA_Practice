@@ -1,9 +1,5 @@
-# Linux Terminal/GitBash commands [Составные команды Git и запись логов](https://github.com/Pavlik1100/GitBash-Practice_Linux_Terminal_commands/tree/main/added_new_skill)
+# Linux Terminal/GitBash commands:
 
-<<<<<<< HEAD
-## GitHub [![Flutter](https://img.shields.io/badge/🏠-GITHUB_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/GitHub) [GitHub](https://github.com/Pavlik1100/QA_Practice/tree/GitHub)  
-## GitBash [![Flutter](https://img.shields.io/badge/🏠-GITBASH_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/GitBash)
-=======
 1) Посмотреть где я `pwd`
 2) Создать папку `mkdir new_folder`
 3) Зайти в папку `cd new_folder`
@@ -24,17 +20,6 @@
 18) вывести несколько последних строк из текстового файла `tail -n3 1.txt`
 19) просмотреть содержимое длинного файла (команда less) изучите как она работает `less -s 1.txt` 
 20) вывести дату и время `date` 
-# 
-21) Сохранить поток логов за указанную минуту в отдельный файл
-```sh
-tail -f anything_1.txt | grep --line-buffered 16.08 >> test_log1.txt
-```
-#
-22) Сохранить поток логов за указанную минуту в отдельный файл транслируя ход логов в gitbash
-```sh
-tail -f anything_1.txt | grep --line-buffered 16.13 >> test_log2.txt | tail -f test_log2.txt
-```
-[Директория с логами](https://github.com/Pavlik1100/GitBash-Practice_Linux_Terminal_commands/tree/main/added_new_skill)
 
 ## Задание *
 *1) Отправить http запрос на сервер http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000  
@@ -65,9 +50,3 @@ ls -la
 mv -v 04.json 05.json fold3  
 ```
 [Директория со скриптом](https://github.com/Pavlik1100/theory_and_practice_on_the_course/tree/main/script)
-
-## 🚏 Navigate:
-[![Flutter](https://img.shields.io/badge/🏠-GITBASH_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/GitBash)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
->>>>>>> 71df012011937c7afb789c14bf0257b353b53d11
-## 📫 How to reach me:  
-[![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=LinkedIn)](https://www.linkedin.com/in/pavel-simonov-7a8b1119a/)  [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=Telegram)](https://t.me/NuiSaiman)  [![Flutter](https://img.shields.io/badge/-simonovpavlik@gmail.com-000000?style=social&logo=Gmail)](mailto:simonovpavlik@gmail.com)
