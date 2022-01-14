@@ -1,5 +1,5 @@
-# HW_2-Practice_GitHub
-GitHub. HW_2
+# Practice_GitHub
+
 1. На локальном репозитории сделать ветки для:
 - Postman
 - Jmeter
