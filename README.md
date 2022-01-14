@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# QA_Practice
-
-## GitHub [![Flutter](https://img.shields.io/badge/🏠-GITHUB_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/GitHub) [GitHub](https://github.com/Pavlik1100/QA_Practice/tree/GitHub)  
-## GitBash [![Flutter](https://img.shields.io/badge/🏠-GITBASH_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/GitBash)
-=======
 # Practice_GitHub
 
 1. На локальном репозитории сделать ветки для:
@@ -97,6 +91,5 @@ git pull origin main
 ```
 ## 🚏 Navigate:
 [![Flutter](https://img.shields.io/badge/🏠-GITHUB_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/GitHub)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
->>>>>>> 093cc8d377032993c68206284138901c352c7134
 ## 📫 How to reach me:  
 [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=LinkedIn)](https://www.linkedin.com/in/pavel-simonov-7a8b1119a/)  [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=Telegram)](https://t.me/NuiSaiman)  [![Flutter](https://img.shields.io/badge/-simonovpavlik@gmail.com-000000?style=social&logo=Gmail)](mailto:simonovpavlik@gmail.com)
