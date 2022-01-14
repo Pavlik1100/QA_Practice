@@ -1,6 +1,4 @@
-# QA_Practice
-
-## GitHub [![Flutter](https://img.shields.io/badge/🏠-GITHUB_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/GitHub) [GitHub](https://github.com/Pavlik1100/QA_Practice/tree/GitHub)  
-## GitBash [![Flutter](https://img.shields.io/badge/🏠-GITBASH_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/GitBash)
-## 📫 How to reach me:  
-[![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=LinkedIn)](https://www.linkedin.com/in/pavel-simonov-7a8b1119a/)  [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=Telegram)](https://t.me/NuiSaiman)  [![Flutter](https://img.shields.io/badge/-simonovpavlik@gmail.com-000000?style=social&logo=Gmail)](mailto:simonovpavlik@gmail.com)
+# POSTMAN
+### [HW_1](https://github.com/Pavlik1100/POSTMAN/tree/main/HW_1) - Simple requests collection in Postman 
+### [HW_2](https://github.com/Pavlik1100/POSTMAN/tree/main/HW_2) - Requests with tests, simple tests
+### [HW_3](https://github.com/Pavlik1100/POSTMAN/tree/main/HW_3) - Requests with tests, get/set variables, validate response schem, validate properties of objects, get/set token etc.
