@@ -1,6 +1,7 @@
 # Checklist
 [mobile checklist](https://docs.google.com/spreadsheets/d/1TpCWlc1_cRv5yoQqAMOLrnQXTr7iShKxP-c-Xx4J3oo/edit#gid=0)  
-[smoke To Do List](https://docs.google.com/spreadsheets/d/1TpCWlc1_cRv5yoQqAMOLrnQXTr7iShKxP-c-Xx4J3oo/edit?usp=sharing)
+[smoke To Do List](https://docs.google.com/spreadsheets/d/1TpCWlc1_cRv5yoQqAMOLrnQXTr7iShKxP-c-Xx4J3oo/edit#gid=1641688298)   
+[regression To Do List](https://docs.google.com/spreadsheets/d/1TpCWlc1_cRv5yoQqAMOLrnQXTr7iShKxP-c-Xx4J3oo/edit#gid=1388346789)
 ## 🚏 Navigate:
 [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
 ## 📫 How to reach me:  
