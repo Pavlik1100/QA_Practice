@@ -1,6 +1,6 @@
 # Charles HW Traffic capture 
 
-## [HW_Charles](https://github.com/Pavlik1100/Charles/blob/main/HW_Charles.chls)
+## [![Flutter](https://img.shields.io/badge/👉-Charles_HomeWork-00A98F)](https://github.com/Pavlik1100/Charles/blob/main/HW_Charles.chls) Saved session with complate tasks [HW_Charles](https://github.com/Pavlik1100/Charles/blob/main/HW_Charles.chls)
 
 ### Ex_0: Сфокусироваться на ниже перечисленных запросах
   
@@ -143,3 +143,9 @@ Task:
 Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)  
    ⁃ Сделать через Charles так, чтобы в Postman вернулся ответ, в котором qa_salary_after_1.5_year переименовано в qa_salary_after_1.5_month  
    ⁃ Сделать так чтобы qa_salary_after_3.5_years было меньше qa_salary_after_12_months в response  
+
+
+## 🚏 Navigate:
+[![Flutter](https://img.shields.io/badge/🏠-Charles_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Charles)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
+## 📫 How to reach me:  
+[![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=LinkedIn)](https://www.linkedin.com/in/pavel-simonov-7a8b1119a/)  [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=Telegram)](https://t.me/NuiSaiman)  [![Flutter](https://img.shields.io/badge/-simonovpavlik@gmail.com-000000?style=social&logo=Gmail)](mailto:simonovpavlik@gmail.com)
