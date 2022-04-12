@@ -1,7 +1,7 @@
 # SQL_practis
-### [HW_1](https://github.com/Pavlik1100/QA_Practice/tree/SQL/HW_1)-SELECT_WHERE_FROM_AND_OR_MIN_MAX_COUNT_ORDER
-### [HW_2](https://github.com/Pavlik1100/QA_Practice/tree/SQL/HW_2)-CREATE_INSERT SQL_DDL Первая часть
-### [HW_3](https://github.com/Pavlik1100/QA_Practice/tree/SQL/HW_3)-JOINS DDL Продолжение
+### [![Flutter](https://img.shields.io/badge/👉-SQL_HomeWork_1-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/SQL/HW_1) [HW_1](https://github.com/Pavlik1100/QA_Practice/tree/SQL/HW_1)-SELECT_WHERE_FROM_AND_OR_MIN_MAX_COUNT_ORDER
+### [![Flutter](https://img.shields.io/badge/👉-SQL_HomeWork_2-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/SQL/HW_2) [HW_2](https://github.com/Pavlik1100/QA_Practice/tree/SQL/HW_2)-CREATE_INSERT SQL_DDL Первая часть
+### [![Flutter](https://img.shields.io/badge/👉-SQL_HomeWork_3-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/SQL/HW_3) [HW_3](https://github.com/Pavlik1100/QA_Practice/tree/SQL/HW_3)-JOINS DDL Продолжение
 
 ## 🚏 Navigate:
 [![Flutter](https://img.shields.io/badge/🏠-SQL_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/SQL)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
