@@ -1,9 +1,9 @@
 # Jmeter - HW_2-Request_with_scripts  
 Сделать сценарий с перечисленными эндпоинтами   
 #  
-### Настройки тест-плана Jmeter [HW_2_Jmeter_Test_Plan.jmx](https://github.com/Pavlik1100/Jmeter/blob/main/HW_2-Request_with_scripts/HW_2_Jmeter_Test_Plan.jmx)
-### Logs from Results Tree with complated *** [HW_2_Results_from_Results_Tree.csv](https://github.com/Pavlik1100/Jmeter/blob/main/HW_2-Request_with_scripts/HW_2_Results_from_Results_Tree.csv)  
-### Logs from Sumury Report with complated *** [HW_2_Results_from_Summary_Report.csv](https://github.com/Pavlik1100/Jmeter/blob/main/HW_2-Request_with_scripts/HW_2_Results_from_Summary_Report.csv)  
+### [![Flutter](https://img.shields.io/badge/👉-HW_2_Jmeter_Test_Plan-00A98F)](https://github.com/Pavlik1100/QA_Practice/blob/Jmeter/HW_2-Request_with_scripts/HW_2_Jmeter_Test_Plan.jmx) Настройки тест-плана Jmeter [HW_2_Jmeter_Test_Plan.jmx](https://github.com/Pavlik1100/QA_Practice/blob/Jmeter/HW_2-Request_with_scripts/HW_2_Jmeter_Test_Plan.jmx)
+### [![Flutter](https://img.shields.io/badge/👉-HW_2_Results_from_Results_Tree-00A98F)](https://github.com/Pavlik1100/Jmeter/blob/main/HW_2-Request_with_scripts/HW_2_Results_from_Results_Tree.csv) Logs from Results Tree with complated *** [HW_2_Results_from_Results_Tree.csv](https://github.com/Pavlik1100/Jmeter/blob/main/HW_2-Request_with_scripts/HW_2_Results_from_Results_Tree.csv)  
+### [![Flutter](https://img.shields.io/badge/👉-HW_2_Results_from_Summary_Report-00A98F)](https://github.com/Pavlik1100/Jmeter/blob/main/HW_2-Request_with_scripts/HW_2_Results_from_Summary_Report.csv) Logs from Sumury Report with complated *** [HW_2_Results_from_Summary_Report.csv](https://github.com/Pavlik1100/Jmeter/blob/main/HW_2-Request_with_scripts/HW_2_Results_from_Summary_Report.csv)  
 #
 
 1) http://162.55.220.72:5005/user_info  
