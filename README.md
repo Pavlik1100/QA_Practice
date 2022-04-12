@@ -1,7 +1,7 @@
 # Fiddler HW Traffic capture 
 
-## [HW_Fiddler_session](https://github.com/Pavlik1100/Fiddler/blob/main/HW_Fiddler_session.saz) - сохраненная сессия с выполненым заданием
-## [HW_Fiddler_session](https://github.com/Pavlik1100/Fiddler/blob/main/Rules.farx) - сохраненные правила
+## [![Flutter](https://img.shields.io/badge/👉-Fiddler_session-00A98F)](https://github.com/Pavlik1100/Fiddler/blob/main/HW_Fiddler_session.saz) [HW_Fiddler_session](https://github.com/Pavlik1100/Fiddler/blob/main/HW_Fiddler_session.saz) - сохраненная сессия с выполненым заданием
+## [![Flutter](https://img.shields.io/badge/👉-Fiddler_Rules-00A98F)](https://github.com/Pavlik1100/Fiddler/blob/main/Rules.farx) [HW_Fiddler_session](https://github.com/Pavlik1100/Fiddler/blob/main/Rules.farx) - сохраненные правила
 
 ### Ex_0: Отфильтровать выдачу запросов по нужному ip
 
@@ -165,3 +165,9 @@ response:
  - В ответе поменять значение зарплаты qa_salary_after_1.5_year на другую цифру. 
  - В ответе удалить параметр person. 
  - В ответе поменять значение параметр person с json на xml.
+
+
+## 🚏 Navigate:
+[![Flutter](https://img.shields.io/badge/🏠-Fiddler_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Fiddler)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
+## 📫 How to reach me:  
+[![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=LinkedIn)](https://www.linkedin.com/in/pavel-simonov-7a8b1119a/)  [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=Telegram)](https://t.me/NuiSaiman)  [![Flutter](https://img.shields.io/badge/-simonovpavlik@gmail.com-000000?style=social&logo=Gmail)](mailto:simonovpavlik@gmail.com)
