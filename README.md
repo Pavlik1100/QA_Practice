@@ -1,7 +1,7 @@
 # Fiddler HW Traffic capture 
 
 ## [![Flutter](https://img.shields.io/badge/👉-Fiddler_session-00A98F)](https://github.com/Pavlik1100/Fiddler/blob/main/HW_Fiddler_session.saz) [HW_Fiddler_session](https://github.com/Pavlik1100/Fiddler/blob/main/HW_Fiddler_session.saz) - сохраненная сессия с выполненым заданием
-## [![Flutter](https://img.shields.io/badge/👉-Fiddler_Rules-00A98F)](https://github.com/Pavlik1100/Fiddler/blob/main/Rules.farx) [HW_Fiddler_session](https://github.com/Pavlik1100/Fiddler/blob/main/Rules.farx) - сохраненные правила
+## [![Flutter](https://img.shields.io/badge/👉-Fiddler_Rules-00A98F)](https://github.com/Pavlik1100/Fiddler/blob/main/Rules.farx) [HW_Fiddler_rules](https://github.com/Pavlik1100/Fiddler/blob/main/Rules.farx) - сохраненные правила
 
 ### Ex_0: Отфильтровать выдачу запросов по нужному ip
 
