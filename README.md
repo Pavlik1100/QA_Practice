@@ -1,7 +1,7 @@
 # POSTMAN
-### [HW_1](https://github.com/Pavlik1100/QA_Practice/tree/Postman/HW_1) - Simple requests collection in Postman 
-### [HW_2](https://github.com/Pavlik1100/QA_Practice/tree/Postman/HW_2) - Requests with tests, simple tests
-### [HW_3](https://github.com/Pavlik1100/QA_Practice/tree/Postman/HW_3) - Requests with tests, get/set variables, validate response schem, validate properties of objects, get/set token etc.
+### [![Flutter](https://img.shields.io/badge/👉-Postman_HomeWork_1-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Postman/HW_1) [HW_1](https://github.com/Pavlik1100/QA_Practice/tree/Postman/HW_1) - Simple requests collection in Postman 
+### [![Flutter](https://img.shields.io/badge/👉-Postman_HomeWork_2-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Postman/HW_2) [HW_2](https://github.com/Pavlik1100/QA_Practice/tree/Postman/HW_2) - Requests with tests, simple tests
+### [![Flutter](https://img.shields.io/badge/👉-Postman_HomeWork_3-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Postman/HW_3) [HW_3](https://github.com/Pavlik1100/QA_Practice/tree/Postman/HW_3) - Requests with tests, get/set variables, validate response schem, validate properties of objects, get/set token etc.
 ## 🚏 Navigate:
 [![Flutter](https://img.shields.io/badge/🏠-Postman_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Postman)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
 ## 📫 How to reach me:  
