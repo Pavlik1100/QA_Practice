@@ -5,10 +5,10 @@
 Результаты прогонов ввгрузить в CSV, на заняти посмотрим что и как.  
 Настройки Jmeter, файл .jmx выгружаем на гит.  
 #  
-### Настройки тест-плана Jmeter [HW_1_Jmeter_Test_Plan.jmx](https://github.com/Pavlik1100/Jmeter/blob/main/HW_1-Request_with_param/HW_1_Jmeter_Test_Plan.jmx)
-### таблица-отчет 200 потоков [HW_1_Summary_200x15m.csv](https://github.com/Pavlik1100/Jmeter/blob/main/HW_1-Request_with_param/HW_1_Summary_200x15m.csv)  
-### таблица-отчет 500 потоков [HW_1_Summary_500x15m.csv](https://github.com/Pavlik1100/Jmeter/blob/main/HW_1-Request_with_param/HW_1_Summary_500x15m.csv)  
-### таблица-отчет 50 потоков [HW_1_Summary_50x15m.csv](https://github.com/Pavlik1100/Jmeter/blob/main/HW_1-Request_with_param/HW_1_Summary_50x15m.csv)  
+### [![Flutter](https://img.shields.io/badge/👉-HW_1_Jmeter_Test_Plan-00A98F)](https://github.com/Pavlik1100/QA_Practice/blob/Jmeter/HW_1-Request_with_param/HW_1_Jmeter_Test_Plan.jmx) Настройки тест-плана Jmeter [HW_1_Jmeter_Test_Plan.jmx](https://github.com/Pavlik1100/QA_Practice/blob/Jmeter/HW_1-Request_with_param/HW_1_Jmeter_Test_Plan.jmx)
+### [![Flutter](https://img.shields.io/badge/👉-HW_1_Summary_200x15m-00A98F)](https://github.com/Pavlik1100/QA_Practice/blob/Jmeter/HW_1-Request_with_param/HW_1_Summary_200x15m.csv) Таблица-отчет 200 потоков [HW_1_Summary_200x15m.csv](https://github.com/Pavlik1100/QA_Practice/blob/Jmeter/HW_1-Request_with_param/HW_1_Summary_200x15m.csv)  
+### [![Flutter](https://img.shields.io/badge/👉-HW_1_Summary_500x15m-00A98F)](https://github.com/Pavlik1100/QA_Practice/blob/Jmeter/HW_1-Request_with_param/HW_1_Summary_500x15m.csv) Таблица-отчет 500 потоков [HW_1_Summary_500x15m.csv](https://github.com/Pavlik1100/QA_Practice/blob/Jmeter/HW_1-Request_with_param/HW_1_Summary_500x15m.csv)  
+### [![Flutter](https://img.shields.io/badge/👉-HW_1_Summary_50x15m-00A98F)](https://github.com/Pavlik1100/QA_Practice/blob/Jmeter/HW_1-Request_with_param/HW_1_Summary_50x15m.csv) Таблица-отчет 50 потоков [HW_1_Summary_50x15m.csv](https://github.com/Pavlik1100/QA_Practice/blob/Jmeter/HW_1-Request_with_param/HW_1_Summary_50x15m.csv)  
 #
   
 http://162.55.220.72:5005  
@@ -64,6 +64,6 @@ age: int
 salary: int  
 
 ## 🚏 Navigate:
-[![Flutter](https://img.shields.io/badge/🏠-Jmeter_REP-00A98F)](https://github.com/Pavlik1100/Jmeter)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
+[![Flutter](https://img.shields.io/badge/🏠-Jmeter_Branch-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Jmeter)  [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
 ## 📫 How to reach me:  
 [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=LinkedIn)](https://www.linkedin.com/in/pavel-simonov-7a8b1119a/)  [![Flutter](https://img.shields.io/badge/-Pavel_Simonov-000000?style=social&logo=Telegram)](https://t.me/NuiSaiman)  [![Flutter](https://img.shields.io/badge/-simonovpavlik@gmail.com-000000?style=social&logo=Gmail)](mailto:simonovpavlik@gmail.com)
