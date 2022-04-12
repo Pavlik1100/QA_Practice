@@ -2,7 +2,7 @@
    
 ## GitHub [![Flutter](https://img.shields.io/badge/🏠-GITHUB_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/GitHub)  
 ## GitBash [![Flutter](https://img.shields.io/badge/🏠-GITBASH_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/GitBash)
-## Postman [![Flutter](https://img.shields.io/badge/🏠-Postman_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Postman)
+## Postman [![Flutter](https://img.shields.io/badge/🏠-Postman_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Postman) 
 ## SQL [![Flutter](https://img.shields.io/badge/🏠-SQL_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/SQL)    
 ## Checklist [![Flutter](https://img.shields.io/badge/🏠-Checklist_BRANCH-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Checklist)
 ## 📫 How to reach me:     
