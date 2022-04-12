@@ -1,7 +1,7 @@
 # Jmeter
 
 ### [![Flutter](https://img.shields.io/badge/👉-HW_1_Request_with_param-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Jmeter/HW_1-Request_with_param) [HW_1-Request_with_params](https://github.com/Pavlik1100/QA_Practice/tree/Jmeter/HW_1-Request_with_params)
-### [![Flutter](https://img.shields.io/badge/👉-HW_2_Request_with_scripts-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Jmeter/HW_1-Request_with_param) [HW_2-Request_with_scripts](https://github.com/Pavlik1100/QA_Practice/tree/Jmeter/HW_2-Request_with_scripts)
+### [![Flutter](https://img.shields.io/badge/👉-HW_2_Request_with_scripts-00A98F)](https://github.com/Pavlik1100/QA_Practice/tree/Jmeter/HW_2-Request_with_scripts) [HW_2-Request_with_scripts](https://github.com/Pavlik1100/QA_Practice/tree/Jmeter/HW_2-Request_with_scripts)
 #
 ## 🚏 Navigate:
 [![Flutter](https://img.shields.io/badge/🏠-QA_PRACTICE_BANCH-orange)](https://github.com/Pavlik1100/QA_Practice/tree/main)
